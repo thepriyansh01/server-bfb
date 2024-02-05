@@ -4,9 +4,6 @@
 # Ignore log files
 *.log
 
-# Ignire env files
-*.env
-
 # Ignore environment files
 
 # Ignore dependency directories
@@ -21,3 +18,5 @@
 # Ignore editor files
 .vscode/
 .idea/
+
+.env
